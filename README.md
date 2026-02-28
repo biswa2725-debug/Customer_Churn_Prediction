@@ -70,6 +70,27 @@ Metrics used:
 
 ---
 
+## 🖥 Application Screenshots
+
+The following screenshots demonstrate the working interface of the Customer Churn Prediction System, including the input form and prediction output.
+
+### 🔹 Customer Input Interface
+
+This screen allows users to enter customer demographic details, subscription information, billing data, and contract details required for churn prediction.
+
+![Customer Input Interface](images/app_interface.png)
+
+---
+
+### 🔹 Prediction Result Output
+
+After submitting customer details, the system predicts whether the customer is likely to churn.  
+It also displays the probability score and risk level using a Logistic Regression model.
+
+![Prediction Result](images/prediction_result.png)
+
+---
+
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Clone the Repository
