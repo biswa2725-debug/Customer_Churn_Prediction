@@ -104,7 +104,15 @@ Open the Jupyter Notebook:
 ```bash
 jupyter notebook notebooks/churn_analysis.ipynb
 ```
+### 2️⃣ Run the Streamlit Application
 
+After cloning the repository and installing the required dependencies, you can launch the Streamlit web application using:
+
+```bash
+python -m streamlit run app.py
+```
+
+> Note: But before that change the path of the csv file of where it is saved on your local system and run the model once and then you can run this code to run the StreamLit app
 ---
 
 ## 🛠 Technologies Used
